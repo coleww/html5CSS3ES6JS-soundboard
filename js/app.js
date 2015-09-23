@@ -1,7 +1,6 @@
 function init_ui() {
   var format;
   var formats = {
-    mp3: { mime: "audio/mpeg",  ext: "mp3"},
     wav: { mime: "audio/x-wav", ext: "wav"}
   };
 
