@@ -1,5 +1,9 @@
-html5-soundboard
+html5CSS3ES6JS-soundboard
 ================
+
+A fork of [@jm3](http://twitter.com/jm3)'s html5-soundboard
+
+
 
 Finally, your lol-inducing WAVs can be standards compliant! by [@jm3](http://twitter.com/jm3)
 
